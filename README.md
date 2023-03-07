@@ -2,6 +2,7 @@
 
 - 🌱 Estou estudando HTML e CSS
 - 😄 Pronomes: ele/dele
+- 📚 Estou no 8º ano
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leobiz0&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobiz0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
