@@ -12,4 +12,7 @@
 <div style="display: inline-block"><br>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+![Snake animation](https://github.com/leobiz0/leobiz0/blob/output/github-contribution-grid-snake.svg)
+
 </div>
